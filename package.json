@@ -1,0 +1,30 @@
+{
+  "name": "privacy-dex",
+  "version": "1.0.0",
+  "description": "Privacy-first DEX on Polygon + BSC",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AmithKumar1/privacy-dex.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/AmithKumar1/privacy-dex/issues"
+  },
+  "homepage": "https://github.com/AmithKumar1/privacy-dex#readme",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-ignition": "^3.0.9",
+    "@nomicfoundation/hardhat-toolbox-viem": "^5.0.3",
+    "@types/node": "^22.19.15",
+    "forge-std": "github:foundry-rs/forge-std#v1.9.4",
+    "hardhat": "^3.1.12",
+    "typescript": "~5.8.0",
+    "viem": "^2.47.4"
+  }
+}
