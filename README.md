@@ -1,5 +1,5 @@
 # Privacy-First DEX
-### A decentralized exchange for India. No KYC. Full control. May 30 launch.
+### A decentralized exchange for India. No KYC. Full control.
 
 ---
 
